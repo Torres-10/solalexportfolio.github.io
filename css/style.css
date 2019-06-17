@@ -1,0 +1,103 @@
+.nav-link {
+  font-family: 'Lobster', cursive;
+  font-size: 17px;
+}
+
+.img {
+	height: 100%;
+	width: 100%;
+}
+
+.details {
+    position: absolute; 
+    z-index: 1; 
+    top: 120px;
+    right: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.about-title {
+	 font-family: 'Lobster', cursive;
+  	font-size: 5vw;
+}
+
+.about-desc {
+	 font-family: 'Amatic SC', cursive;
+     font-size: 2vw;
+}
+
+.portfolio-title {
+	font-family: 'Lobster', cursive;
+  	font-size: 50px;
+  	margin-top: 50px;
+}
+
+#link {
+	text-decoration: none;
+}
+
+.layout-link{
+	 font-family: 'Amatic SC', cursive;
+	 text-decoration: none;
+	 color: #fff;
+	 font-size: 25px;
+}
+
+.layout-block {
+  	 background-color: #000;
+  	 border-radius: 50%;
+  	 width: 150px;
+  	 height: 150px;
+  	 margin-top: 45px;
+  	 padding-top: 35px;
+}
+
+.layout-link {
+	text-decoration: none;
+}
+
+.layout-link:hover {
+	background: grey;
+	color: #fff;
+}
+
+.row-black {
+	background: #000;
+	margin-top: 50px;
+}
+
+.contact-title {
+	color: #fff;
+  	font-family: 'Lobster', cursive;
+  	font-size: 40px;
+}
+
+.contact-desc {
+	color: #fff;
+  	font-family: 'Amatic SC', cursive;
+  	font-size: 25px;
+  	margin-top: 15px;
+}
+
+.contacts-list {
+	font-family: 'Dancing Script', cursive;
+  	font-size: 25px;
+  	margin-top: 30px;
+}
+
+.contacts-list li>a {
+	text-decoration: none;
+	color: #fff;
+	padding: 0 15px;
+}
+
+.contacts-list li>a:hover {
+	color: grey;
+}
+
+.footer {
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	padding: 20px 0;
+}
